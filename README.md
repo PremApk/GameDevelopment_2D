@@ -1,6 +1,6 @@
 # GameDevelopment_2D
 ---
-<img src="https://raw.githubusercontent.com/PremApk/GameDevelopment_2D/main/GameScreen.jpg" alt="GameScreen" />
+<img src="https://raw.githubusercontent.com/PremApk/GameDevelopment_2D/main/images/GameScreen.jpg" alt="GameScreen" />
 
 ---
 
